@@ -1,10 +1,10 @@
 # TriangleC
 
-Pour ce petit exercice, on aviosn pour consigne de ne pas utliser la bibliothèque CS50
+Pour ce petit exercice, j'avais pour consigne de ne pas utliser la bibliothèque CS50.
 
-Donc pour commencer j'ai ajouter les bibliothèques <stdio.h> et <math.h>. (ligne 5 & 6)
+Donc pour commencer j'ai ajouter les bibliothèques <stdio.h> et <math.h>. (ligne 5 & 6).
 
-Après j'ai crée la fonction principale int main void.(ligne 10)
+Après j'ai crée la fonction principale int main void.(ligne 10).
 
 On ensuite j'ai crée des les variables qui vont nous servir pour notre projet et là se sont des floats.(ligne 14 et 15.)
 

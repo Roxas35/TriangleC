@@ -26,7 +26,7 @@ int main(void)
     scanf("%f", &BC);
 
 //On va pouvoir afficher la longueur de l'hypothenuse en utilisant sqrt pour calculer les racines carrées de AB et BC pour trouver AC. 
-    printf("Voici la longueur de hypothenuse AC : %f en cm", sqrt(AB * AB + BC * BC));
+    printf("Voici la longueur de hypothenuse AC est de : %f en cm", sqrt(AB * AB + BC * BC));
 
 
 }
